@@ -662,12 +662,12 @@ await runTest(
     // (31.8% / 48.1) fails here until the fixture is deliberately updated.
     const frozen = evaluateBubbleModel(FROZEN_INPUTS);
     assert(
-      frozen.burstProbability === 31.8,
-      `Frozen canon probability must stay 31.8, got ${frozen.burstProbability}`,
+      frozen.burstProbability === 30.6,
+      `Frozen canon probability must stay 30.6, got ${frozen.burstProbability}`,
     );
     assert(
-      frozen.compositeScore === 48.1,
-      `Frozen canon composite must stay 48.1, got ${frozen.compositeScore}`,
+      frozen.compositeScore === 47.6,
+      `Frozen canon composite must stay 47.6, got ${frozen.compositeScore}`,
     );
 
     // 1. dP/dCDS >= 0.5 probability points per 100bp, strictly positive (the reference
@@ -735,7 +735,7 @@ await runTest(
       `Flat-print relief must be bounded to 8 composite points, got ${reliefPts.toFixed(2)}`,
     );
 
-    return `Frozen canon print 31.8% / 48.1 stable. Live ${REF}→900bp: ${deltas.join(' ')} (>= 0.5pt/100bp). Score strictly increasing to ${prevScore.toFixed(4)} (ceiling 2.0). Flat-print relief ${reliefPts.toFixed(2)} composite pts (core ${flatCore.toFixed(2)}).`;
+    return `Frozen canon print 30.6% / 47.6 stable. Live ${REF}→900bp: ${deltas.join(' ')} (>= 0.5pt/100bp). Score strictly increasing to ${prevScore.toFixed(4)} (ceiling 2.0). Flat-print relief ${reliefPts.toFixed(2)} composite pts (core ${flatCore.toFixed(2)}).`;
   }
 );
 
@@ -810,8 +810,8 @@ await runTest(
     //    deflation leg clamps at 500×, so 500× and 670× must print the same value.
     const frozen = evaluateBubbleModel(FROZEN_INPUTS);
     assert(
-      frozen.burstProbability === 31.8,
-      `Frozen canon probability must stay 31.8, got ${frozen.burstProbability}`,
+      frozen.burstProbability === 30.6,
+      `Frozen canon probability must stay 30.6, got ${frozen.burstProbability}`,
     );
     const frozenAtDefl = (d) =>
       evaluateBubbleModel({

@@ -1,14 +1,80 @@
 [
   {
-    "id": "8fee6438-3848-3d09-a484-035c8e63a482",
-    "title": "AITX's RAD Targets $1.49 Billion Mobile Surveillance Tower Market with RAIA",
-    "publisher": "TMX Newsfile",
-    "link": "https://finance.yahoo.com/technology/ai/articles/aitxs-rad-targets-1-49-124000946.html",
-    "publishedAt": "2026-10-30T12:40:00.000Z",
-    "timeAgo": "16h ago",
+    "id": "afd066c6-5241-33a8-a122-67e566ec91f5",
+    "title": "Here's What Must Happen for SpaceX Stock to Rebound",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/heres-must-happen-spacex-stock-134200549.html",
+    "publishedAt": "2026-11-09T13:42:00.000Z",
+    "timeAgo": "6h ago",
     "category": "General AI",
     "impact": "High Impact",
-    "summary": "Live market intelligence reported by TMX Newsfile."
+    "summary": "Live market intelligence reported by Motley Fool."
+  },
+  {
+    "id": "4f0492c9-ca02-308b-b544-ad3a62d54c5b",
+    "title": "1 AI Stock I'll Buy Hand Over Fist If the Market Crashes",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/technology/ai/articles/1-ai-stock-ill-buy-162000779.html",
+    "publishedAt": "2026-11-07T16:20:00.000Z",
+    "timeAgo": "51h ago",
+    "category": "General AI",
+    "impact": "High Impact",
+    "summary": "Live market intelligence reported by Motley Fool."
+  },
+  {
+    "id": "6f9aa15f-951f-36ca-a1e6-2fa8751aaab2",
+    "title": "Anthropic’s IPO Is Under Scrutiny. Why This Analyst Says It Will Go Ahead.",
+    "publisher": "Barrons.com",
+    "link": "https://finance.yahoo.com/m/6f9aa15f-951f-36ca-a1e6-2fa8751aaab2/anthropic%E2%80%99s-ipo-is-under.html",
+    "publishedAt": "2026-11-06T14:00:00.000Z",
+    "timeAgo": "77h ago",
+    "category": "Frontier Labs",
+    "impact": "High Impact",
+    "summary": "Live market intelligence reported by Barrons.com."
+  },
+  {
+    "id": "9264ec8e-0d96-3279-b1d7-e4f526342975",
+    "title": "Brutal AI Implosion Torches $4.5 Trillion — These 3 Stocks Hit The Worst",
+    "publisher": "Investor's Business Daily",
+    "link": "https://finance.yahoo.com/m/9264ec8e-0d96-3279-b1d7-e4f526342975/brutal-ai-implosion-torches.html",
+    "publishedAt": "2026-11-06T12:32:17.000Z",
+    "timeAgo": "79h ago",
+    "category": "General AI",
+    "impact": "Market Sentiment",
+    "summary": "Live market intelligence reported by Investor's Business Daily."
+  },
+  {
+    "id": "9a2f0e7e-13e0-3449-8405-9934d99791ba",
+    "title": "Own an AI or Tech ETF? Arista’s Big Quarter Just Paid Off",
+    "publisher": "24/7 Wall St.",
+    "link": "https://finance.yahoo.com/technology/articles/own-ai-tech-etf-arista-193350490.html",
+    "publishedAt": "2026-11-04T19:33:50.000Z",
+    "timeAgo": "120h ago",
+    "category": "General AI",
+    "impact": "Market Sentiment",
+    "summary": "Live market intelligence reported by 24/7 Wall St.."
+  },
+  {
+    "id": "44bca433-d672-314e-9d9d-58089df704f8",
+    "title": "The UAE Is Giving OpenAI the Keys to the Kingdom",
+    "publisher": "Moby",
+    "link": "https://finance.yahoo.com/technology/ai/articles/uae-giving-openai-keys-kingdom-203307352.html",
+    "publishedAt": "2026-11-02T20:33:07.000Z",
+    "timeAgo": "167h ago",
+    "category": "Frontier Labs",
+    "impact": "Market Sentiment",
+    "summary": "Live market intelligence reported by Moby."
+  },
+  {
+    "id": "0438ab33-c764-33b6-b586-3e94b43d1ef4",
+    "title": "Do You Own Tempus AI Without Knowing It? Check These ETFs After Its Earnings Surge",
+    "publisher": "24/7 Wall St.",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/own-tempus-ai-without-knowing-195401644.html",
+    "publishedAt": "2026-11-02T19:54:01.000Z",
+    "timeAgo": "167h ago",
+    "category": "General AI",
+    "impact": "Market Sentiment",
+    "summary": "Live market intelligence reported by 24/7 Wall St.."
   },
   {
     "id": "755572b9-30bf-3956-b82a-8e69a18a4a38",
@@ -16,9 +82,9 @@
     "publisher": "Moneywise",
     "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-sees-more-pain-101500280.html",
     "publishedAt": "2026-10-30T10:15:00.000Z",
-    "timeAgo": "18h ago",
+    "timeAgo": "249h ago",
     "category": "General AI",
-    "impact": "High Impact",
+    "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Moneywise."
   },
   {
@@ -27,21 +93,10 @@
     "publisher": "Zacks",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-bet-4b-meta-132300446.html",
     "publishedAt": "2026-10-28T13:23:00.000Z",
-    "timeAgo": "63h ago",
+    "timeAgo": "294h ago",
     "category": "Hyperscalers",
-    "impact": "High Impact",
-    "summary": "Live market intelligence reported by Zacks."
-  },
-  {
-    "id": "6952b046-e4be-36c3-b377-1c46b45f5a34",
-    "title": "AITX Defines Four Internal Breakeven Milestones",
-    "publisher": "GlobeNewswire",
-    "link": "https://finance.yahoo.com/technology/ai/articles/aitx-defines-four-internal-breakeven-124000548.html",
-    "publishedAt": "2026-10-26T12:40:00.000Z",
-    "timeAgo": "112h ago",
-    "category": "General AI",
     "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by GlobeNewswire."
+    "summary": "Live market intelligence reported by Zacks."
   },
   {
     "id": "379ed5df-af17-3896-ad6a-8f9477db3b56",
@@ -49,64 +104,9 @@
     "publisher": "MoneyShow",
     "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-10-23-26-141500926.html",
     "publishedAt": "2026-10-23T14:15:00.000Z",
-    "timeAgo": "182h ago",
+    "timeAgo": "413h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by MoneyShow."
-  },
-  {
-    "id": "a38b2c8c-11e1-3939-8b36-c7d027f3e083",
-    "title": "AITX's RAD Secures Orders Across Three Product Lines",
-    "publisher": "TMX Newsfile",
-    "link": "https://finance.yahoo.com/technology/ai/articles/aitxs-rad-secures-orders-across-124000979.html",
-    "publishedAt": "2026-10-22T12:40:00.000Z",
-    "timeAgo": "208h ago",
-    "category": "General AI",
-    "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by TMX Newsfile."
-  },
-  {
-    "id": "72eee01e-299c-3cb7-85bf-68a96c55441f",
-    "title": "AI ETFs- Niche Funds Proliferating in the Growing Industry",
-    "publisher": "MoneyShow",
-    "link": "https://finance.yahoo.com/markets/options/articles/ai-etfs-niche-funds-proliferating-050100255.html",
-    "publishedAt": "2026-10-22T05:01:00.000Z",
-    "timeAgo": "216h ago",
-    "category": "General AI",
-    "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by MoneyShow."
-  },
-  {
-    "id": "7a4566a3-af9d-3058-a2f1-747f73f661cc",
-    "title": "AITX Q2 FY2027: Revenue Excluding Largest Customer Up 61% Year-Over-Year; Revenue Up 8% Sequentially",
-    "publisher": "TMX Newsfile",
-    "link": "https://finance.yahoo.com/technology/ai/articles/aitx-q2-fy2027-revenue-excluding-124000412.html",
-    "publishedAt": "2026-10-21T12:40:00.000Z",
-    "timeAgo": "232h ago",
-    "category": "General AI",
-    "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by TMX Newsfile."
-  },
-  {
-    "id": "9aca8d54-2607-3ce2-952d-7a134d33520e",
-    "title": "AITX Projects Monthly Operating Cash Breakeven in January 2027 Ahead of RAIA, SARA and ROAMEO Revenue Ramp",
-    "publisher": "TMX Newsfile",
-    "link": "https://finance.yahoo.com/technology/ai/articles/aitx-projects-monthly-operating-cash-124000166.html",
-    "publishedAt": "2026-10-20T12:40:00.000Z",
-    "timeAgo": "256h ago",
-    "category": "General AI",
-    "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by TMX Newsfile."
-  },
-  {
-    "id": "f5df9ece-6088-3b97-bf93-b58244c6e3f5",
-    "title": "AITX Expands Security Distribution Strategy With Appointment of Industry Veteran Tom Reilly",
-    "publisher": "InvestorsHub",
-    "link": "https://finance.yahoo.com/technology/ai/articles/aitx-expands-security-distribution-strategy-153235981.html",
-    "publishedAt": "2026-10-19T15:32:35.000Z",
-    "timeAgo": "277h ago",
-    "category": "General AI",
-    "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by InvestorsHub."
   }
 ]
