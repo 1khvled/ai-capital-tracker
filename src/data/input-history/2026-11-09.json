@@ -1,7 +1,7 @@
 {
   "_snapshot": {
     "date": "2026-11-09",
-    "captured_at": "2026-11-09T19:20:26.628Z",
+    "captured_at": "2026-11-09T19:21:38.890Z",
     "rule": "canonical daily snapshot — the last successful run of the UTC day owns this file"
   },
   "inputs": {
@@ -120,7 +120,7 @@
           "endDate": "2027-01-01T04:59:00Z",
           "closed": false,
           "active": true,
-          "liquidityUsd": 136163,
+          "liquidityUsd": 136148,
           "spreadPct": 0.1,
           "oneDayPriceChangePct": -0.6,
           "referralUrl": "https://polymarket.com/event/ai-bubble-burst-by?r=AIbubble"
@@ -152,7 +152,7 @@
           "endDate": "2027-07-01T03:59:00Z",
           "closed": false,
           "active": true,
-          "liquidityUsd": 72313,
+          "liquidityUsd": 69611,
           "spreadPct": 1,
           "oneDayPriceChangePct": -2,
           "referralUrl": "https://polymarket.com/event/ai-bubble-burst-by?r=AIbubble"
@@ -296,7 +296,7 @@
           "endDate": "2027-01-01T04:59:00Z",
           "closed": false,
           "active": true,
-          "liquidityUsd": 23534,
+          "liquidityUsd": 23493,
           "spreadPct": 2,
           "oneDayPriceChangePct": -0.5,
           "referralUrl": "https://polymarket.com/event/openai-announces-it-has-achieved-agi-before-2027?r=AIbubble"
@@ -312,7 +312,7 @@
           "endDate": "2027-01-01T04:59:00Z",
           "closed": false,
           "active": true,
-          "liquidityUsd": 10910,
+          "liquidityUsd": 10883,
           "spreadPct": 0.4,
           "oneDayPriceChangePct": -0.3,
           "referralUrl": "https://polymarket.com/event/openai-1t-ipo-before-2027?r=AIbubble"
@@ -344,7 +344,7 @@
           "endDate": "2027-01-31T00:00:00Z",
           "closed": false,
           "active": true,
-          "liquidityUsd": 79166,
+          "liquidityUsd": 78990,
           "spreadPct": 0.2,
           "oneDayPriceChangePct": 0.6,
           "referralUrl": "https://polymarket.com/event/us-recession-by-end-of-2026?r=AIbubble"
@@ -436,7 +436,7 @@
       ]
     },
     "meta": {
-      "last_synced_at": "2026-11-09T19:20:26.177Z",
+      "last_synced_at": "2026-11-09T19:21:38.547Z",
       "sync_mode": "autonomous_24h_telemetry",
       "sources": [
         "Federal Reserve Economic Data (FRED) St. Louis API (DGS10, DGS2, BAMLH0A0HYM2, FEDFUNDS)",
