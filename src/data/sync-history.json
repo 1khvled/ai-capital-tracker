@@ -1,5 +1,32 @@
 [
   {
+    "timestamp": "2026-11-12T06:23:55.478Z",
+    "status": "SUCCESS",
+    "execution_time_ms": 3847,
+    "sources_scanned": [
+      "OpenRouter Public Models Pricing API",
+      "Polymarket Gamma Events API",
+      "Yahoo Finance Institutional Quotes (21 Tech Tickers & Macro Indicators)",
+      "SEC EDGAR Submissions (Oracle CIK 0001341439)",
+      "AI Capital Tracker Verified Primary Ledger (deals.json)"
+    ],
+    "burst_probability": 31.4,
+    "composite_score": 48,
+    "risk_band": "guarded",
+    "merton_dd": 5.13,
+    "altman_z": 8.41,
+    "token_decline_multiple": "1364x",
+    "polymarket_yes_prob": 0.1115,
+    "disclosed_volume_usd": 2872873160000,
+    "debt_share_pct": "7.5%",
+    "deals_count": 169,
+    "delta_vs_previous": {
+      "burst_probability_delta": 0.6,
+      "polymarket_prob_delta": 0.019,
+      "disclosed_volume_delta_usd": 0
+    }
+  },
+  {
     "timestamp": "2026-11-11T05:19:44.930Z",
     "status": "SUCCESS",
     "execution_time_ms": 3633,
@@ -779,33 +806,6 @@
     "delta_vs_previous": {
       "burst_probability_delta": 0,
       "polymarket_prob_delta": -0.001,
-      "disclosed_volume_delta_usd": 0
-    }
-  },
-  {
-    "timestamp": "2026-10-19T00:50:04.147Z",
-    "status": "SUCCESS",
-    "execution_time_ms": 7595,
-    "sources_scanned": [
-      "OpenRouter Public Models Pricing API",
-      "Polymarket Gamma Events API",
-      "Yahoo Finance Institutional Quotes (21 Tech Tickers & Macro Indicators)",
-      "SEC EDGAR Submissions (Oracle CIK 0001341439)",
-      "AI Capital Tracker Verified Primary Ledger (deals.json)"
-    ],
-    "burst_probability": 48.2,
-    "composite_score": 54.4,
-    "risk_band": "elevated",
-    "merton_dd": 5.37,
-    "altman_z": 8.41,
-    "token_decline_multiple": "24x",
-    "polymarket_yes_prob": 0.079,
-    "disclosed_volume_usd": 2858307802026,
-    "debt_share_pct": "8.0%",
-    "deals_count": 169,
-    "delta_vs_previous": {
-      "burst_probability_delta": 0,
-      "polymarket_prob_delta": 0,
       "disclosed_volume_delta_usd": 0
     }
   }
