@@ -1,11 +1,22 @@
 [
   {
+    "id": "6700bb43-12ea-3b7d-a62b-9b445f5d9021",
+    "title": "History Says Every S&P 500 Bear Market Has Ended the Same Way. Here's the Pattern.",
+    "publisher": "Motley Fool",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-every-p-500-112500345.html",
+    "publishedAt": "2026-11-15T11:25:00.000Z",
+    "timeAgo": "18h ago",
+    "category": "General AI",
+    "impact": "High Impact",
+    "summary": "Live market intelligence reported by Motley Fool."
+  },
+  {
     "id": "afd066c6-5241-33a8-a122-67e566ec91f5",
     "title": "Here's What Must Happen for SpaceX Stock to Rebound",
     "publisher": "Motley Fool",
     "link": "https://finance.yahoo.com/markets/stocks/articles/heres-must-happen-spacex-stock-134200549.html",
     "publishedAt": "2026-11-09T13:42:00.000Z",
-    "timeAgo": "136h ago",
+    "timeAgo": "160h ago",
     "category": "General AI",
     "impact": "High Impact",
     "summary": "Live market intelligence reported by Motley Fool."
@@ -16,7 +27,7 @@
     "publisher": "Motley Fool",
     "link": "https://finance.yahoo.com/technology/ai/articles/1-ai-stock-ill-buy-162000779.html",
     "publishedAt": "2026-11-07T16:20:00.000Z",
-    "timeAgo": "181h ago",
+    "timeAgo": "205h ago",
     "category": "General AI",
     "impact": "High Impact",
     "summary": "Live market intelligence reported by Motley Fool."
@@ -27,9 +38,9 @@
     "publisher": "Barrons.com",
     "link": "https://finance.yahoo.com/m/6f9aa15f-951f-36ca-a1e6-2fa8751aaab2/anthropic%E2%80%99s-ipo-is-under.html",
     "publishedAt": "2026-11-06T14:00:00.000Z",
-    "timeAgo": "208h ago",
+    "timeAgo": "232h ago",
     "category": "Frontier Labs",
-    "impact": "High Impact",
+    "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Barrons.com."
   },
   {
@@ -38,7 +49,7 @@
     "publisher": "Investor's Business Daily",
     "link": "https://finance.yahoo.com/m/9264ec8e-0d96-3279-b1d7-e4f526342975/brutal-ai-implosion-torches.html",
     "publishedAt": "2026-11-06T12:32:17.000Z",
-    "timeAgo": "209h ago",
+    "timeAgo": "233h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Investor's Business Daily."
@@ -49,7 +60,7 @@
     "publisher": "24/7 Wall St.",
     "link": "https://finance.yahoo.com/technology/articles/own-ai-tech-etf-arista-193350490.html",
     "publishedAt": "2026-11-04T19:33:50.000Z",
-    "timeAgo": "250h ago",
+    "timeAgo": "274h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by 24/7 Wall St.."
@@ -60,7 +71,7 @@
     "publisher": "Moby",
     "link": "https://finance.yahoo.com/technology/ai/articles/uae-giving-openai-keys-kingdom-203307352.html",
     "publishedAt": "2026-11-02T20:33:07.000Z",
-    "timeAgo": "297h ago",
+    "timeAgo": "321h ago",
     "category": "Frontier Labs",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Moby."
@@ -71,7 +82,7 @@
     "publisher": "24/7 Wall St.",
     "link": "https://finance.yahoo.com/markets/stocks/articles/own-tempus-ai-without-knowing-195401644.html",
     "publishedAt": "2026-11-02T19:54:01.000Z",
-    "timeAgo": "298h ago",
+    "timeAgo": "322h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by 24/7 Wall St.."
@@ -82,7 +93,7 @@
     "publisher": "Moneywise",
     "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-sees-more-pain-101500280.html",
     "publishedAt": "2026-10-30T10:15:00.000Z",
-    "timeAgo": "379h ago",
+    "timeAgo": "403h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Moneywise."
@@ -93,20 +104,9 @@
     "publisher": "Zacks",
     "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-bet-4b-meta-132300446.html",
     "publishedAt": "2026-10-28T13:23:00.000Z",
-    "timeAgo": "424h ago",
+    "timeAgo": "448h ago",
     "category": "Hyperscalers",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Zacks."
-  },
-  {
-    "id": "379ed5df-af17-3896-ad6a-8f9477db3b56",
-    "title": "Market Minute 10-23-26- Tech Tanks, While Defensive Stocks Surge",
-    "publisher": "MoneyShow",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-10-23-26-141500926.html",
-    "publishedAt": "2026-10-23T14:15:00.000Z",
-    "timeAgo": "543h ago",
-    "category": "General AI",
-    "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by MoneyShow."
   }
 ]
