@@ -77,13 +77,13 @@
     "circularShare": 0.027,
     "announcedShare": 0.101,
     "megaCountLast12m": 19,
-    "daysSinceLastMega": 49,
+    "daysSinceLastMega": 50,
     "count": 169
   },
   "crowd": {
-    "yesProbability": 0.0745,
-    "volumeUsd": 10247083.603222005,
-    "bubble2026Probability": 0.0745,
+    "yesProbability": 0.078,
+    "volumeUsd": 10273854.395223007,
+    "bubble2026Probability": 0.078,
     "bubble2027Probability": 0.18,
     "activeContractsCount": 16,
     "markets": [
@@ -108,15 +108,15 @@
         "question": "AI bubble burst in 2026?",
         "slug": "ai-industry-downturn-by-december-31-2026-857",
         "eventSlug": "ai-bubble-burst-by",
-        "yesProbabilityPct": 7.5,
-        "noProbabilityPct": 92.6,
-        "volumeUsd": 3133369,
+        "yesProbabilityPct": 7.8,
+        "noProbabilityPct": 92.2,
+        "volumeUsd": 3137636,
         "endDate": "2027-01-01T04:59:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 148745,
-        "spreadPct": 0.1,
-        "oneDayPriceChangePct": -0.5,
+        "liquidityUsd": 200832,
+        "spreadPct": 0.2,
+        "oneDayPriceChangePct": 0.4,
         "referralUrl": "https://polymarket.com/event/ai-bubble-burst-by?r=AIbubble"
       },
       {
@@ -142,13 +142,13 @@
         "eventSlug": "ai-bubble-burst-by",
         "yesProbabilityPct": 18,
         "noProbabilityPct": 82,
-        "volumeUsd": 172294,
+        "volumeUsd": 176490,
         "endDate": "2027-07-01T03:59:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 104917,
+        "liquidityUsd": 114730,
         "spreadPct": 2,
-        "oneDayPriceChangePct": -0.5,
+        "oneDayPriceChangePct": 0,
         "referralUrl": "https://polymarket.com/event/ai-bubble-burst-by?r=AIbubble"
       },
       {
@@ -236,15 +236,15 @@
         "question": "Will OpenAI IPO by December 31 2026?",
         "slug": "will-openai-ipo-by-december-31-2026",
         "eventSlug": "openai-ipo-by",
-        "yesProbabilityPct": 1.3,
-        "noProbabilityPct": 98.7,
-        "volumeUsd": 1128368,
+        "yesProbabilityPct": 1.5,
+        "noProbabilityPct": 98.5,
+        "volumeUsd": 1128630,
         "endDate": "2027-01-01T04:59:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 25134,
-        "spreadPct": 0.4,
-        "oneDayPriceChangePct": 0.1,
+        "liquidityUsd": 24793,
+        "spreadPct": 0.8,
+        "oneDayPriceChangePct": 0.2,
         "referralUrl": "https://polymarket.com/event/openai-ipo-by?r=AIbubble"
       },
       {
@@ -258,9 +258,9 @@
         "endDate": "2027-04-01T03:59:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 14450,
+        "liquidityUsd": 14743,
         "spreadPct": 1,
-        "oneDayPriceChangePct": 0.5,
+        "oneDayPriceChangePct": 0,
         "referralUrl": "https://polymarket.com/event/openai-ipo-by?r=AIbubble"
       },
       {
@@ -274,7 +274,7 @@
         "endDate": "2027-07-01T03:59:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 14387,
+        "liquidityUsd": 19118,
         "spreadPct": 1,
         "oneDayPriceChangePct": 0,
         "referralUrl": "https://polymarket.com/event/openai-ipo-by?r=AIbubble"
@@ -284,15 +284,15 @@
         "question": "OpenAI announces it has achieved AGI before 2027?",
         "slug": "openai-announces-it-has-achieved-agi-before-2027",
         "eventSlug": "openai-announces-it-has-achieved-agi-before-2027",
-        "yesProbabilityPct": 6.5,
-        "noProbabilityPct": 93.5,
-        "volumeUsd": 369182,
+        "yesProbabilityPct": 9.5,
+        "noProbabilityPct": 90.5,
+        "volumeUsd": 382236,
         "endDate": "2027-01-01T04:59:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 29951,
+        "liquidityUsd": 38666,
         "spreadPct": 1,
-        "oneDayPriceChangePct": 0,
+        "oneDayPriceChangePct": 3,
         "referralUrl": "https://polymarket.com/event/openai-announces-it-has-achieved-agi-before-2027?r=AIbubble"
       },
       {
@@ -300,14 +300,14 @@
         "question": "OpenAI $1t+ IPO before 2027?",
         "slug": "openai-1t-ipo-before-2027",
         "eventSlug": "openai-1t-ipo-before-2027",
-        "yesProbabilityPct": 1.4,
-        "noProbabilityPct": 98.6,
+        "yesProbabilityPct": 1.3,
+        "noProbabilityPct": 98.7,
         "volumeUsd": 321132,
         "endDate": "2027-01-01T04:59:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 6071,
-        "spreadPct": 0.4,
+        "liquidityUsd": 6011,
+        "spreadPct": 0.2,
         "oneDayPriceChangePct": -0.1,
         "referralUrl": "https://polymarket.com/event/openai-1t-ipo-before-2027?r=AIbubble"
       },
@@ -316,15 +316,15 @@
         "question": "Anthropic acquired before 2027?",
         "slug": "anthropic-acquired-before-2027",
         "eventSlug": "anthropic-acquired-before-2027",
-        "yesProbabilityPct": 1.7,
-        "noProbabilityPct": 98.4,
-        "volumeUsd": 40710,
+        "yesProbabilityPct": 1.5,
+        "noProbabilityPct": 98.5,
+        "volumeUsd": 40751,
         "endDate": "2027-01-01T04:59:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 10884,
-        "spreadPct": 0.7,
-        "oneDayPriceChangePct": 0,
+        "liquidityUsd": 11128,
+        "spreadPct": 0.6,
+        "oneDayPriceChangePct": -0.1,
         "referralUrl": "https://polymarket.com/event/anthropic-acquired-before-2027?r=AIbubble"
       },
       {
@@ -334,11 +334,11 @@
         "eventSlug": "us-recession-by-end-of-2026",
         "yesProbabilityPct": 2.5,
         "noProbabilityPct": 97.6,
-        "volumeUsd": 2477181,
+        "volumeUsd": 2482133,
         "endDate": "2027-01-31T00:00:00Z",
         "closed": false,
         "active": true,
-        "liquidityUsd": 149440,
+        "liquidityUsd": 150189,
         "spreadPct": 0.1,
         "oneDayPriceChangePct": 0,
         "referralUrl": "https://polymarket.com/event/us-recession-by-end-of-2026?r=AIbubble"
@@ -346,7 +346,7 @@
     ],
     "referralCode": "AIbubble",
     "referralUrl": "https://polymarket.com/?r=AIbubble",
-    "note": "Live Polymarket sync across 6 active AI prediction events (Volume: $10.25M)"
+    "note": "Live Polymarket sync across 6 active AI prediction events (Volume: $10.27M)"
   },
   "adoption": {
     "topProductUsers": 1200000000,
@@ -361,13 +361,13 @@
     "note": "Big-4 hyperscaler CY2026 capex guidance (Jul 2026 calls): Amazon ~$220B cash capex, Alphabet $195–205B, Microsoft ~$175B incl. finance leases, Meta $130–145B → ~$725B guided (Forbes Oct 7 2026: $700–725B; Coatue Aug 11 2026: ~$733B). Apple excluded from this basis; FCF figure is trailing FY and flagged for CY2026 refresh"
   },
   "macro": {
-    "us10yYieldPct": 5.15,
+    "us10yYieldPct": 5.12,
     "us10yBaselinePct": 3.75,
     "cpiInflationYoY": 3.72,
     "fedFundsRatePct": 3.75,
     "rateHikeRiskBps": 25,
-    "realYield10y": 2.8,
-    "highYieldSpreadBps": 320,
+    "realYield10y": 2.77,
+    "highYieldSpreadBps": 323,
     "note": "FRED-verified Oct 19 2026: US10Y 5.10% (DGS10, Oct 15); 10y breakeven 2.35% (T10YIE, Oct 16) → real 10y 2.75%; CPI +3.72% YoY (CPIAUCSL Sep 2026); Fed funds 3.75% (FEDFUNDS Sep 2026 — cut cycle); US HY OAS 323bp (BAMLH0A0HYM2, Oct 15 2026)"
   },
   "aiDebt": {
@@ -429,11 +429,12 @@
       "OpenRouter scan 2026-10-28T04:45:17.934Z: deepseek/deepseek-v4.1-flash BASE row NOT matched — no base-row identity — scanned prompt $null/1M, completion $null/1M (drift null% vs the verified $0.0448/$0.08 pair, tolerance ±25%) — no base-row identity matched (fetch failed or the row is absent), so the verified 670× seed was published. Variant rows present in the catalog and excluded from the anchor: none",
       "OpenRouter scan 2026-11-12T06:23:51.632Z: deepseek/deepseek-v4.1-flash BASE row matched (deepseek/deepseek-v4.1-flash) — scanned prompt $0.022/1M, completion $0.39999999999999997/1M (drift 50.89% vs the verified $0.0448/$0.08 pair, tolerance ±25%) — the scanned base-row price was outside the ±25% band, so 1364× was published as scanned. Variant rows present in the catalog and excluded from the anchor: deepseek/deepseek-v4.1-flash-1017, deepseek/deepseek-v4.1-flash-1017:batch, deepseek/deepseek-v4.1-flash:batch",
       "OpenRouter scan 2026-11-13T05:43:59.683Z: deepseek/deepseek-v4.1-flash BASE row matched (deepseek/deepseek-v4.1-flash) — scanned prompt $0.3/1M, completion $1.2/1M (drift 569.64% vs the verified $0.0448/$0.08 pair, tolerance ±25%) — the scanned base-row price was outside the ±25% band, so 100× was published as scanned. Variant rows present in the catalog and excluded from the anchor: deepseek/deepseek-v4.1-flash-1017, deepseek/deepseek-v4.1-flash-1017:batch, deepseek/deepseek-v4.1-flash:batch",
-      "OpenRouter scan 2026-11-16T05:31:05.840Z: deepseek/deepseek-v4.1-flash BASE row matched (deepseek/deepseek-v4.1-flash) — scanned prompt $0.14/1M, completion $0.42/1M (drift 212.5% vs the verified $0.0448/$0.08 pair, tolerance ±25%) — the scanned base-row price was outside the ±25% band, so 214× was published as scanned. Variant rows present in the catalog and excluded from the anchor: deepseek/deepseek-v4.1-flash-1017, deepseek/deepseek-v4.1-flash-1017:batch, deepseek/deepseek-v4.1-flash:batch"
+      "OpenRouter scan 2026-11-16T05:31:05.840Z: deepseek/deepseek-v4.1-flash BASE row matched (deepseek/deepseek-v4.1-flash) — scanned prompt $0.14/1M, completion $0.42/1M (drift 212.5% vs the verified $0.0448/$0.08 pair, tolerance ±25%) — the scanned base-row price was outside the ±25% band, so 214× was published as scanned. Variant rows present in the catalog and excluded from the anchor: deepseek/deepseek-v4.1-flash-1017, deepseek/deepseek-v4.1-flash-1017:batch, deepseek/deepseek-v4.1-flash:batch",
+      "OpenRouter scan 2026-11-17T07:08:59.410Z: deepseek/deepseek-v4.1-flash BASE row matched (deepseek/deepseek-v4.1-flash) — scanned prompt $0.14/1M, completion $0.42/1M (drift 212.5% vs the verified $0.0448/$0.08 pair, tolerance ±25%) — the scanned base-row price was outside the ±25% band, so 214× was published as scanned. Variant rows present in the catalog and excluded from the anchor: deepseek/deepseek-v4.1-flash-1017, deepseek/deepseek-v4.1-flash-1017:batch, deepseek/deepseek-v4.1-flash:batch"
     ]
   },
   "meta": {
-    "last_synced_at": "2026-11-16T05:31:08.301Z",
+    "last_synced_at": "2026-11-17T07:09:01.631Z",
     "sync_mode": "autonomous_24h_telemetry",
     "sources": [
       "Federal Reserve Economic Data (FRED) St. Louis API (DGS10, DGS2, BAMLH0A0HYM2, FEDFUNDS)",
