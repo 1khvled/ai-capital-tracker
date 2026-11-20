@@ -1,11 +1,22 @@
 [
   {
+    "id": "90df79a0-9c52-3c9f-8712-7cfb7a9f1463",
+    "title": "Anthropic IPO Puts AI ETF Exposure in Focus as Valuation Bets Cool",
+    "publisher": "Benzinga Prediction Markets",
+    "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-puts-ai-etf-125753403.html",
+    "publishedAt": "2026-11-19T12:57:53.000Z",
+    "timeAgo": "17h ago",
+    "category": "Frontier Labs",
+    "impact": "High Impact",
+    "summary": "Live market intelligence reported by Benzinga Prediction Markets."
+  },
+  {
     "id": "946604b9-1348-3c6d-af10-91350ce54373",
     "title": "Beyond Nvidia: Are Your AI ETFs Resilient Enough to Survive the Fallout?",
     "publisher": "Zacks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-nvidia-ai-etfs-resilient-134800011.html",
     "publishedAt": "2026-11-18T13:48:00.000Z",
-    "timeAgo": "17h ago",
+    "timeAgo": "41h ago",
     "category": "Silicon & Power",
     "impact": "High Impact",
     "summary": "Live market intelligence reported by Zacks."
@@ -16,7 +27,7 @@
     "publisher": "Motley Fool",
     "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-every-p-500-112500345.html",
     "publishedAt": "2026-11-15T11:25:00.000Z",
-    "timeAgo": "91h ago",
+    "timeAgo": "115h ago",
     "category": "General AI",
     "impact": "High Impact",
     "summary": "Live market intelligence reported by Motley Fool."
@@ -27,9 +38,9 @@
     "publisher": "Motley Fool",
     "link": "https://finance.yahoo.com/markets/stocks/articles/heres-must-happen-spacex-stock-134200549.html",
     "publishedAt": "2026-11-09T13:42:00.000Z",
-    "timeAgo": "233h ago",
+    "timeAgo": "257h ago",
     "category": "General AI",
-    "impact": "High Impact",
+    "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Motley Fool."
   },
   {
@@ -38,7 +49,7 @@
     "publisher": "Motley Fool",
     "link": "https://finance.yahoo.com/technology/ai/articles/1-ai-stock-ill-buy-162000779.html",
     "publishedAt": "2026-11-07T16:20:00.000Z",
-    "timeAgo": "278h ago",
+    "timeAgo": "302h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Motley Fool."
@@ -49,7 +60,7 @@
     "publisher": "Barrons.com",
     "link": "https://finance.yahoo.com/m/6f9aa15f-951f-36ca-a1e6-2fa8751aaab2/anthropic%E2%80%99s-ipo-is-under.html",
     "publishedAt": "2026-11-06T14:00:00.000Z",
-    "timeAgo": "305h ago",
+    "timeAgo": "328h ago",
     "category": "Frontier Labs",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Barrons.com."
@@ -60,7 +71,7 @@
     "publisher": "Investor's Business Daily",
     "link": "https://finance.yahoo.com/m/9264ec8e-0d96-3279-b1d7-e4f526342975/brutal-ai-implosion-torches.html",
     "publishedAt": "2026-11-06T12:32:17.000Z",
-    "timeAgo": "306h ago",
+    "timeAgo": "330h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Investor's Business Daily."
@@ -71,7 +82,7 @@
     "publisher": "24/7 Wall St.",
     "link": "https://finance.yahoo.com/technology/articles/own-ai-tech-etf-arista-193350490.html",
     "publishedAt": "2026-11-04T19:33:50.000Z",
-    "timeAgo": "347h ago",
+    "timeAgo": "371h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by 24/7 Wall St.."
@@ -82,7 +93,7 @@
     "publisher": "Moby",
     "link": "https://finance.yahoo.com/technology/ai/articles/uae-giving-openai-keys-kingdom-203307352.html",
     "publishedAt": "2026-11-02T20:33:07.000Z",
-    "timeAgo": "394h ago",
+    "timeAgo": "418h ago",
     "category": "Frontier Labs",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Moby."
@@ -93,20 +104,9 @@
     "publisher": "24/7 Wall St.",
     "link": "https://finance.yahoo.com/markets/stocks/articles/own-tempus-ai-without-knowing-195401644.html",
     "publishedAt": "2026-11-02T19:54:01.000Z",
-    "timeAgo": "395h ago",
+    "timeAgo": "418h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by 24/7 Wall St.."
-  },
-  {
-    "id": "755572b9-30bf-3956-b82a-8e69a18a4a38",
-    "title": "Jim Cramer sees more pain for beaten-down AI stocks: ‘I think it’s too soon to say the coast is clear’",
-    "publisher": "Moneywise",
-    "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-sees-more-pain-101500280.html",
-    "publishedAt": "2026-10-30T10:15:00.000Z",
-    "timeAgo": "476h ago",
-    "category": "General AI",
-    "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by Moneywise."
   }
 ]
