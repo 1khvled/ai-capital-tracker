@@ -1,11 +1,22 @@
 [
   {
+    "id": "5214e125-03ae-37a1-90ad-f4c3139e1b5d",
+    "title": "Tap Jensen-Led AI Rally With These ETFs",
+    "publisher": "Zacks",
+    "link": "https://finance.yahoo.com/technology/ai/articles/tap-jensen-led-ai-rally-114200565.html",
+    "publishedAt": "2026-11-24T11:42:00.000Z",
+    "timeAgo": "20h ago",
+    "category": "General AI",
+    "impact": "High Impact",
+    "summary": "Live market intelligence reported by Zacks."
+  },
+  {
     "id": "55830fb1-8ee6-38d6-9163-662e606662ed",
     "title": "Beyond AI: The Best Thematic ETF Opportunities for 2027",
     "publisher": "Zacks",
     "link": "https://finance.yahoo.com/technology/ai/articles/beyond-ai-best-thematic-etf-212200645.html",
     "publishedAt": "2026-11-23T21:22:00.000Z",
-    "timeAgo": "12h ago",
+    "timeAgo": "34h ago",
     "category": "General AI",
     "impact": "High Impact",
     "summary": "Live market intelligence reported by Zacks."
@@ -16,7 +27,7 @@
     "publisher": "Benzinga Prediction Markets",
     "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-puts-ai-etf-125753403.html",
     "publishedAt": "2026-11-19T12:57:53.000Z",
-    "timeAgo": "116h ago",
+    "timeAgo": "139h ago",
     "category": "Frontier Labs",
     "impact": "High Impact",
     "summary": "Live market intelligence reported by Benzinga Prediction Markets."
@@ -27,9 +38,9 @@
     "publisher": "Zacks",
     "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-nvidia-ai-etfs-resilient-134800011.html",
     "publishedAt": "2026-11-18T13:48:00.000Z",
-    "timeAgo": "139h ago",
+    "timeAgo": "162h ago",
     "category": "Silicon & Power",
-    "impact": "High Impact",
+    "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Zacks."
   },
   {
@@ -38,7 +49,7 @@
     "publisher": "Motley Fool",
     "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-every-p-500-112500345.html",
     "publishedAt": "2026-11-15T11:25:00.000Z",
-    "timeAgo": "214h ago",
+    "timeAgo": "236h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Motley Fool."
@@ -49,7 +60,7 @@
     "publisher": "Motley Fool",
     "link": "https://finance.yahoo.com/markets/stocks/articles/heres-must-happen-spacex-stock-134200549.html",
     "publishedAt": "2026-11-09T13:42:00.000Z",
-    "timeAgo": "355h ago",
+    "timeAgo": "378h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Motley Fool."
@@ -60,7 +71,7 @@
     "publisher": "Motley Fool",
     "link": "https://finance.yahoo.com/technology/ai/articles/1-ai-stock-ill-buy-162000779.html",
     "publishedAt": "2026-11-07T16:20:00.000Z",
-    "timeAgo": "401h ago",
+    "timeAgo": "423h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Motley Fool."
@@ -71,7 +82,7 @@
     "publisher": "Barrons.com",
     "link": "https://finance.yahoo.com/m/6f9aa15f-951f-36ca-a1e6-2fa8751aaab2/anthropic%E2%80%99s-ipo-is-under.html",
     "publishedAt": "2026-11-06T14:00:00.000Z",
-    "timeAgo": "427h ago",
+    "timeAgo": "450h ago",
     "category": "Frontier Labs",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Barrons.com."
@@ -82,7 +93,7 @@
     "publisher": "Investor's Business Daily",
     "link": "https://finance.yahoo.com/m/9264ec8e-0d96-3279-b1d7-e4f526342975/brutal-ai-implosion-torches.html",
     "publishedAt": "2026-11-06T12:32:17.000Z",
-    "timeAgo": "428h ago",
+    "timeAgo": "451h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by Investor's Business Daily."
@@ -93,20 +104,9 @@
     "publisher": "24/7 Wall St.",
     "link": "https://finance.yahoo.com/technology/articles/own-ai-tech-etf-arista-193350490.html",
     "publishedAt": "2026-11-04T19:33:50.000Z",
-    "timeAgo": "469h ago",
+    "timeAgo": "492h ago",
     "category": "General AI",
     "impact": "Market Sentiment",
     "summary": "Live market intelligence reported by 24/7 Wall St.."
-  },
-  {
-    "id": "44bca433-d672-314e-9d9d-58089df704f8",
-    "title": "The UAE Is Giving OpenAI the Keys to the Kingdom",
-    "publisher": "Moby",
-    "link": "https://finance.yahoo.com/technology/ai/articles/uae-giving-openai-keys-kingdom-203307352.html",
-    "publishedAt": "2026-11-02T20:33:07.000Z",
-    "timeAgo": "516h ago",
-    "category": "Frontier Labs",
-    "impact": "Market Sentiment",
-    "summary": "Live market intelligence reported by Moby."
   }
 ]
